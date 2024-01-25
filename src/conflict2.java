@@ -1,4 +1,11 @@
 public class conflict2 {
 
-    // conflict created by merve
+    public static void main(String[] args) {
+      
+      // conflict created by merve
+
+        // conflict by baha
+   
+
+    //im waiting
 }
