@@ -10,6 +10,10 @@ public class MainUtils {
 
     }
 
+    public void superCoolMethod(){
+
+    }
+
 
 
 }
