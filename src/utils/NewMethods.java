@@ -5,7 +5,9 @@ public class NewMethods {
 
         //new line
 
+        //string method
 
+        //new line
 
     }
 }
